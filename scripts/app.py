@@ -133,8 +133,6 @@ def Predict():
         else:
             st.success("Based on the history the user has a less probablity of having diabetes")
 
-
-
 def main():
     st.title("Streamlit Tutorial")
     # sidebar chooserr 
